@@ -1,0 +1,9 @@
+You have to enter the following commands in the terminal:
+ pip install requests
+pip install beautifulsoup4
+pip install python-telegram-bot
+pip install schedul
+
+if you have problems installing pip, then try removing venv and recreating it:
+python -m venv venv
+venv\scripts\activate
